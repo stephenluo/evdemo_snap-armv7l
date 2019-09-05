@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=evdemo
+Comment=An electron-vue project
+Exec=evdemo
+Terminal=false
+Type=Application
+Icon=${SNAP}/meta/gui/icon.png
+StartupWMClass=evdemo
+Categories=Utility;
